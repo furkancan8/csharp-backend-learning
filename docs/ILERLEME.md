@@ -6,9 +6,9 @@ Son güncelleme: 30 Eylül 2026
 
 - Aşama: C# temelleri
 - Ders: 02 - Koşullar
-- Durum: Ders 01 bağımsız olarak tamamlandı. Ders 02 anlatımı ve alıştırma iskeleti hazırlandı.
-- Doğrulanan öğrenci becerisi: string, int ve decimal değişken tanımlama; hesaplama ve interpolasyon; atama sırasını açıklama; değer için uygun temel türü seçme.
-- Sonraki adım: Ders 02'deki sıcaklık örneğinin çıktılarını kodu çalıştırmadan tahmin et.
+- Durum: Ders 02 sıcaklık örneğinin iki çıktısı kod çalıştırılmadan doğru tahmin edildi.
+- Doğrulanan öğrenci becerisi: Temel türler ve atamaya ek olarak `if / else if / else` zincirinin yukarıdan aşağıya değerlendirildiğini ve ilk doğru dalın çalıştığını açıklama.
+- Sonraki adım: Ders 02 kargo ücreti alıştırmasının ilk çözümünü `exercises/Ders02/Program.cs` dosyasına yaz.
 
 ## Ders 01 kontrolü
 
@@ -21,7 +21,7 @@ Son güncelleme: 30 Eylül 2026
 
 ## Ders 02 kontrolü
 
-- [ ] Sıcaklık örneğinin iki çıktısı gerekçesiyle tahmin edildi.
+- [x] Sıcaklık örneğinin iki çıktısı gerekçesiyle tahmin edildi.
 - [ ] İlk kargo çözümü öğrenci tarafından yazıldı.
 - [ ] İlk değerlerle sonuç çalıştırılarak doğrulandı.
 - [ ] İki farklı değer grubuyla bağımsız kontrol yapıldı.

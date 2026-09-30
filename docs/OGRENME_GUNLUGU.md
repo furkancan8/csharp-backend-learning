@@ -41,6 +41,13 @@
 - Bu içerik öğretmen tarafından hazırlanmıştır; öğrenci çözümü henüz yazılmadı.
 - Sıradaki görev: sıcaklık örneğinin çıktılarını çalıştırmadan tahmin etmek.
 
+## 30 Eylül 2026 - Ders 02 ilk akış kontrolü
+
+- Öğrenci `sicaklik = 18` ve `yagmurVar = true` için "Şemsiye al." çıktısını doğru tahmin etti.
+- `sicaklik = 8` olduğunda ilk koşul sağlandığı için "Kalın mont al." çıktısını doğru tahmin etti.
+- Öğretmen düzeltmesi: Program geriye dönmez; ilk doğru dalı çalıştırır, zincirin kalanını atlar ve zincirden sonraki satırdan devam eder.
+- Sıradaki görev: kargo ücreti alıştırmasının ilk çözümünü yazmak.
+
 ## Ders sonu kayıt şablonu
 
 ```text
