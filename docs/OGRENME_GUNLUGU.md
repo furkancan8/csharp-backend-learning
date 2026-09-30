@@ -27,6 +27,13 @@
 - Program çalıştırıldı; `3 × 24,90` işleminin sonucu konsolda 74,70 olarak doğrulandı.
 - Sıradaki görev: `adet` için `int`, para değerleri için `decimal` seçilmesinin nedenini açıklamak.
 
+## 30 Eylül 2026 - Ders 01 tür seçimi kontrolü
+
+- Öğrenci `decimal` türünü para gibi hassas ve ondalıklı değerlerle ilişkilendirdi.
+- Öğrenci `int` türünün adet gibi tam sayı değerler için seçildiğini doğru açıkladı.
+- Öğretmen notu: Para hesabında `decimal`, taban 10 ondalıklarını uygun doğrulukla temsil ettiği için kullanılır.
+- Öğrenci notu bekleniyor: çalışmayı ne ölçüde kendi başına yaptığı ve nerede takıldığı.
+
 ## Ders sonu kayıt şablonu
 
 ```text

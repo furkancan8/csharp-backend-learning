@@ -44,7 +44,7 @@ docs/OGRENME_GUNLUGU.md        Kısa öğrenme kayıtları
 | Aşama | Durum |
 | --- | --- |
 | Çalışma düzeni ve başlangıç iskeleti | Hazır |
-| Ders 01 - Değişkenler ve türler | İlk uygulama ve bağımsız tekrar çalıştı; tür seçimi kontrol ediliyor |
+| Ders 01 - Değişkenler ve türler | Uygulama, bağımsız tekrar ve tür seçimi doğrulandı |
 | C# temelleri | Planlandı |
 | SQL | Planlandı |
 | ASP.NET Core API | Planlandı |
