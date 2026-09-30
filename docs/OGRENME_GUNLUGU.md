@@ -48,6 +48,14 @@
 - Öğretmen düzeltmesi: Program geriye dönmez; ilk doğru dalı çalıştırır, zincirin kalanını atlar ve zincirden sonraki satırdan devam eder.
 - Sıradaki görev: kargo ücreti alıştırmasının ilk çözümünü yazmak.
 
+## 30 Eylül 2026 - Ders 02 ilk kargo çözümü
+
+- Öğrenci çözümü önce yanlış ders dosyasına yazdı, ardından `Ders02/Program.cs` dosyasına taşıdı.
+- İlk denemedeki `>` sınır karşılaştırmalarını `>=` olarak düzeltti ve `premiumMusteri` bool değerini doğrudan koşulda kullandı.
+- Proje 0 hata ve 0 uyarıyla derlendi.
+- `sepetTutari = 480m` ve premium müşteri için 19,90 TL kargo ile 499,90 TL ödenecek toplam doğrulandı.
+- Sıradaki görev: iki farklı değer grubuyla dalları bağımsız olarak kontrol etmek.
+
 ## Ders sonu kayıt şablonu
 
 ```text

@@ -46,7 +46,7 @@ docs/OGRENME_GUNLUGU.md        Kısa öğrenme kayıtları
 | --- | --- |
 | Çalışma düzeni ve başlangıç iskeleti | Hazır |
 | Ders 01 - Değişkenler ve türler | Tamamlandı |
-| Ders 02 - Koşullar | Anlatım ve alıştırma iskeleti hazır; öğrenci çözümü bekleniyor |
+| Ders 02 - Koşullar | İlk çözüm ve ilk senaryo doğrulandı; bağımsız kontroller sürüyor |
 | C# temelleri | Planlandı |
 | SQL | Planlandı |
 | ASP.NET Core API | Planlandı |

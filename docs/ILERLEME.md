@@ -6,9 +6,9 @@ Son güncelleme: 30 Eylül 2026
 
 - Aşama: C# temelleri
 - Ders: 02 - Koşullar
-- Durum: Ders 02 sıcaklık örneğinin iki çıktısı kod çalıştırılmadan doğru tahmin edildi.
-- Doğrulanan öğrenci becerisi: Temel türler ve atamaya ek olarak `if / else if / else` zincirinin yukarıdan aşağıya değerlendirildiğini ve ilk doğru dalın çalıştığını açıklama.
-- Sonraki adım: Ders 02 kargo ücreti alıştırmasının ilk çözümünü `exercises/Ders02/Program.cs` dosyasına yaz.
+- Durum: Öğrencinin ilk kargo ücreti çözümü doğru dosyada derlendi; 480 TL ve premium müşteri için 19,90 TL kargo, 499,90 TL toplam doğrulandı.
+- Doğrulanan öğrenci becerisi: `if / else if / else` zinciri kurma, `&&` kullanma, `>=` ile sınır değerini kapsama ve seçilen kargo ücretini toplam tutara ekleme.
+- Sonraki adım: `550m / false` ve `250m / true` değerleriyle iki bağımsız kontrol yap.
 
 ## Ders 01 kontrolü
 
@@ -22,8 +22,8 @@ Son güncelleme: 30 Eylül 2026
 ## Ders 02 kontrolü
 
 - [x] Sıcaklık örneğinin iki çıktısı gerekçesiyle tahmin edildi.
-- [ ] İlk kargo çözümü öğrenci tarafından yazıldı.
-- [ ] İlk değerlerle sonuç çalıştırılarak doğrulandı.
+- [x] İlk kargo çözümü öğrenci tarafından yazıldı.
+- [x] İlk değerlerle sonuç çalıştırılarak doğrulandı.
 - [ ] İki farklı değer grubuyla bağımsız kontrol yapıldı.
 - [ ] Koşul sırası ve `&&` işleci açıklandı.
 - [ ] Öğrenme günlüğü dolduruldu ve anlamlı commit oluşturuldu.
