@@ -1,0 +1,29 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# IDE and user-specific settings
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/secrets.json
+*.pfx
+*.p12
+
+# Local runtime caches and scratch work
+.dotnet/
+.nuget/
+.codex-local/
+work/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
