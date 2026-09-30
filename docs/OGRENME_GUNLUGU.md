@@ -15,6 +15,12 @@
 - Öğrenci notu bekleniyor: Çalışmayı kendi başına mı yaptığı, nerede takıldığı ve kutu/kalem örneği hakkındaki tahmini.
 - Sıradaki görev: adedi 3 yapıp sonucu doğrulamak ve program akışını açıklamak.
 
+## 30 Eylül 2026 - Ders 01 atama sırası kontrolü
+
+- Öğrenci kutu/kalem örneğinde `toplamKalem` değişkeninin hesaplandığı anda 24 değerini aldığını doğru açıkladı.
+- `kutuSayisi` daha sonra 5 olarak değiştirilse bile önceki atamanın otomatik olarak yeniden hesaplanmayacağını belirtti.
+- Sıradaki görev: fiyat hesabında `adet` değerini 3 yapmadan önce beklenen sonucu hesaplamak, ardından programı çalıştırıp sonucu doğrulamak.
+
 ## Ders sonu kayıt şablonu
 
 ```text
