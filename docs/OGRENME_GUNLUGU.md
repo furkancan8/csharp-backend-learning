@@ -21,6 +21,12 @@
 - `kutuSayisi` daha sonra 5 olarak değiştirilse bile önceki atamanın otomatik olarak yeniden hesaplanmayacağını belirtti.
 - Sıradaki görev: fiyat hesabında `adet` değerini 3 yapmadan önce beklenen sonucu hesaplamak, ardından programı çalıştırıp sonucu doğrulamak.
 
+## 30 Eylül 2026 - Ders 01 bağımsız tekrar
+
+- Öğrenci `adet` değerini 3 olarak değiştirdi.
+- Program çalıştırıldı; `3 × 24,90` işleminin sonucu konsolda 74,70 olarak doğrulandı.
+- Sıradaki görev: `adet` için `int`, para değerleri için `decimal` seçilmesinin nedenini açıklamak.
+
 ## Ders sonu kayıt şablonu
 
 ```text

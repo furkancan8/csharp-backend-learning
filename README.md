@@ -26,7 +26,7 @@ Depo klasöründe:
 dotnet run --project exercises/Ders01/Ders01.csproj
 ```
 
-Mevcut Ders 01 uygulaması, ürün adını ve hesaplanan toplam tutarı konsola yazar. Doğrulanan örnekte `adet = 5` ve `birimFiyat = 24.90M` için toplam 124,50'dir.
+Mevcut Ders 01 uygulaması, ürün adını ve hesaplanan toplam tutarı konsola yazar. `adet = 5` için 124,50 ve bağımsız tekrarda `adet = 3` için 74,70 sonuçları doğrulanmıştır.
 
 ## Depo düzeni
 
@@ -44,7 +44,7 @@ docs/OGRENME_GUNLUGU.md        Kısa öğrenme kayıtları
 | Aşama | Durum |
 | --- | --- |
 | Çalışma düzeni ve başlangıç iskeleti | Hazır |
-| Ders 01 - Değişkenler ve türler | İlk uygulama çalıştı; bağımsız tekrar sürüyor |
+| Ders 01 - Değişkenler ve türler | İlk uygulama ve bağımsız tekrar çalıştı; tür seçimi kontrol ediliyor |
 | C# temelleri | Planlandı |
 | SQL | Planlandı |
 | ASP.NET Core API | Planlandı |
