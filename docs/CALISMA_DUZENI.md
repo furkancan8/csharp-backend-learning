@@ -2,15 +2,23 @@
 
 ## Bir ders nasıl ilerler
 
-1. Öğretmen o dersin tek ana hedefini açıklar.
-2. Kısa bir konu anlatımı ve alıştırmadan farklı küçük bir örnek verir.
-3. Öğrenci örneğin çıktısını tahmin eder, sonra kendi alıştırmasını yazar.
-4. Öğrenci kodu ve beklediği sonucu paylaşır. Hata varsa tam hata mesajı da paylaşılır.
-5. Öğretmen önce doğru yaklaşımı ve ilk önemli hatayı belirtir; çözümün tamamını hemen yazmaz.
-6. Öğrenci ipucu yardımıyla düzeltir. Ardından benzer bir görevi daha az yardımla yapar.
+1. Öğretmen o dersin tek ana hedefini ve gereken mantığı kısa, somut bir örnekle açıklar.
+2. Öğrenci Visual Studio'da benzer bir örneği kendisi yazar, çalıştırır ve debugger ile gerekirse adım adım inceler.
+3. Öğretmen çalışan kod üzerinden geri bildirim verir; önce doğru yaklaşımı ve ilk önemli hatayı belirtir.
+4. Öğrenci küçük bir gereksinim değişikliğini kod üzerinde uygular ve sonucu çalıştırarak görür.
+5. Yalnızca kritik bir kavramı kontrol etmek gerektiğinde bir veya iki kısa soru sorulur; ders art arda sözlü sorularla yürütülmez.
+6. Öğrenci hazır çözümü körü körüne kopyalamaz. Önce mantığı görür, sonra benzer kodu kendisi yazar.
 7. Çalışma doğrulanır, kısa günlük yazılır ve anlamlı değişiklik commit edilir.
 
 Öğrenci açıkça tam çözüm isterse açıklamalı çözüm gösterilebilir. Bu durumda çalışma "yardımla tamamlandı" diye kaydedilir ve küçük bir bağımsız tekrar yapılır.
+
+## Visual Studio ile çalışma
+
+- Ana çalışma yüzeyi Visual Studio ve konsol projeleridir.
+- `CSharpBackendLearning.sln` açılarak ders projelerine Solution Explorer üzerinden erişilir.
+- Kod yazıldıktan sonra `Ctrl+S` ile kaydedilir; ardından `Ctrl+F5` ile çalıştırılır.
+- Bir koşulun veya değişkenin davranışı anlaşılmadığında satıra breakpoint konur ve `F10` ile adım adım ilerlenir.
+- Öğretmen örnek kodu açıklayabilir; öğrenci alıştırma kodunu kendi dosyasına kendisi yazar.
 
 ## Geçiş ölçütleri
 
@@ -23,7 +31,7 @@ Eksik beceriye ek alıştırma verilir. Bir konudaki eksik nedeniyle bütün haf
 
 ## Git adımları
 
-Başlangıçta VS Code Source Control arayüzü kullanılabilir. Ama hangi değişikliğin commit'e girdiği anlaşılmalı.
+Başlangıçta Visual Studio Git Changes penceresi kullanılabilir. Ancak hangi değişikliğin commit'e girdiği anlaşılmalı.
 
 ```powershell
 git status

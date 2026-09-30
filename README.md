@@ -6,10 +6,11 @@ Bu bir öğrenme deposudur. Yol haritası, ders açıklamaları ve ilk proje isk
 
 ## Başlangıç
 
-1. [Yol haritasını](ROADMAP.md) oku.
-2. [Birlikte çalışma düzenine](docs/CALISMA_DUZENI.md) bak.
-3. Tamamlanan [Ders 01: Değişkenler ve türler](lessons/01-degiskenler-ve-turler.md) çalışmasını incele.
-4. [Ders 02: Koşullar](lessons/02-kosullar.md) ile devam et ve `exercises/Ders02/Program.cs` dosyasındaki görevi kendin tamamla.
+1. Visual Studio ile `CSharpBackendLearning.sln` dosyasını aç.
+2. [Yol haritasını](ROADMAP.md) ve [birlikte çalışma düzenini](docs/CALISMA_DUZENI.md) incele.
+3. Solution Explorer üzerinden ders projesini seç.
+4. Kısa konu anlatımından sonra örneği Visual Studio'da kendin yaz, çalıştır ve gerektiğinde breakpoint ile izle.
+5. Tamamlanan [Ders 01](lessons/01-degiskenler-ve-turler.md) sonrasında [Ders 02: Koşullar](lessons/02-kosullar.md) ile devam et.
 5. Kodunu çalıştır, sonucu açıkla ve [öğrenme günlüğünü](docs/OGRENME_GUNLUGU.md) doldur.
 
 ## Çalıştırma

@@ -56,6 +56,12 @@
 - `sepetTutari = 480m` ve premium müşteri için 19,90 TL kargo ile 499,90 TL ödenecek toplam doğrulandı.
 - Sıradaki görev: iki farklı değer grubuyla dalları bağımsız olarak kontrol etmek.
 
+## 30 Eylül 2026 - Çalışma biçimi güncellemesi
+
+- Öğrenci, art arda soru-cevap yerine Visual Studio üzerinde daha fazla kod yazarak ilerlemek istediğini belirtti.
+- Dersler kısa mantık anlatımı, farklı bir örnek, öğrencinin uygulaması ve çalışan kod üzerinden geri bildirim biçiminde ilerleyecek.
+- Kritik kavramlar dışında sözlü kontrol azaltılacak; körlemesine kopyalama yerine örnek üzerinden uygulama yapılacak.
+
 ## Ders sonu kayıt şablonu
 
 ```text

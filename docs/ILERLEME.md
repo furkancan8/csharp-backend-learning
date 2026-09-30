@@ -8,7 +8,7 @@ Son güncelleme: 30 Eylül 2026
 - Ders: 02 - Koşullar
 - Durum: Öğrencinin ilk kargo ücreti çözümü doğru dosyada derlendi; 480 TL ve premium müşteri için 19,90 TL kargo, 499,90 TL toplam doğrulandı.
 - Doğrulanan öğrenci becerisi: `if / else if / else` zinciri kurma, `&&` kullanma, `>=` ile sınır değerini kapsama ve seçilen kargo ücretini toplam tutara ekleme.
-- Sonraki adım: `550m / false` ve `250m / true` değerleriyle iki bağımsız kontrol yap.
+- Sonraki adım: Visual Studio'da `550m / false` ve `250m / true` değerleriyle iki bağımsız kontrolü kodu çalıştırarak yap.
 
 ## Ders 01 kontrolü
 
