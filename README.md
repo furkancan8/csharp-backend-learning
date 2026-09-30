@@ -8,8 +8,8 @@ Bu bir öğrenme deposudur. Yol haritası, ders açıklamaları ve ilk proje isk
 
 1. [Yol haritasını](ROADMAP.md) oku.
 2. [Birlikte çalışma düzenine](docs/CALISMA_DUZENI.md) bak.
-3. [Ders 01: Değişkenler ve türler](lessons/01-degiskenler-ve-turler.md) ile başla.
-4. `exercises/Ders01/Program.cs` dosyasındaki görevi kendin tamamla.
+3. Tamamlanan [Ders 01: Değişkenler ve türler](lessons/01-degiskenler-ve-turler.md) çalışmasını incele.
+4. [Ders 02: Koşullar](lessons/02-kosullar.md) ile devam et ve `exercises/Ders02/Program.cs` dosyasındaki görevi kendin tamamla.
 5. Kodunu çalıştır, sonucu açıkla ve [öğrenme günlüğünü](docs/OGRENME_GUNLUGU.md) doldur.
 
 ## Çalıştırma
@@ -24,6 +24,7 @@ Depo klasöründe:
 
 ```powershell
 dotnet run --project exercises/Ders01/Ders01.csproj
+dotnet run --project exercises/Ders02/Ders02.csproj
 ```
 
 Mevcut Ders 01 uygulaması, ürün adını ve hesaplanan toplam tutarı konsola yazar. `adet = 5` için 124,50 ve bağımsız tekrarda `adet = 3` için 74,70 sonuçları doğrulanmıştır.
@@ -44,7 +45,8 @@ docs/OGRENME_GUNLUGU.md        Kısa öğrenme kayıtları
 | Aşama | Durum |
 | --- | --- |
 | Çalışma düzeni ve başlangıç iskeleti | Hazır |
-| Ders 01 - Değişkenler ve türler | Uygulama, bağımsız tekrar ve tür seçimi doğrulandı |
+| Ders 01 - Değişkenler ve türler | Tamamlandı |
+| Ders 02 - Koşullar | Anlatım ve alıştırma iskeleti hazır; öğrenci çözümü bekleniyor |
 | C# temelleri | Planlandı |
 | SQL | Planlandı |
 | ASP.NET Core API | Planlandı |

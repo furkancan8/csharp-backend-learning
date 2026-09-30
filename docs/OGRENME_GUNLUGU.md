@@ -32,7 +32,14 @@
 - Öğrenci `decimal` türünü para gibi hassas ve ondalıklı değerlerle ilişkilendirdi.
 - Öğrenci `int` türünün adet gibi tam sayı değerler için seçildiğini doğru açıkladı.
 - Öğretmen notu: Para hesabında `decimal`, taban 10 ondalıklarını uygun doğrulukla temsil ettiği için kullanılır.
-- Öğrenci notu bekleniyor: çalışmayı ne ölçüde kendi başına yaptığı ve nerede takıldığı.
+- Öğrenci çalışmanın tamamını kendi başına yaptığını ve hiç zorlanmadığını belirtti.
+- Ders 01 tamamlandı; sıradaki konu `if`, `else if`, `else` ve mantıksal işleçlerdir.
+
+## 30 Eylül 2026 - Ders 02 hazırlığı
+
+- Koşullar dersi ve kargo ücreti alıştırma iskeleti hazırlandı.
+- Bu içerik öğretmen tarafından hazırlanmıştır; öğrenci çözümü henüz yazılmadı.
+- Sıradaki görev: sıcaklık örneğinin çıktılarını çalıştırmadan tahmin etmek.
 
 ## Ders sonu kayıt şablonu
 
